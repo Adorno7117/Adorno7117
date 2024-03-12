@@ -1,4 +1,4 @@
-### Olá eu sou GAbriel Adorno!
+### Olá eu sou Gabriel Adorno!
 <div style="display: inline_block">
 <picture>
   <source
