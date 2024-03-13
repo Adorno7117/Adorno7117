@@ -34,3 +34,5 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <br>
 <br>
+
+![snake gif](https://github.com/Adorno7117/Adorno7117/blob/output/github-contribution-grid-snake.gif)
