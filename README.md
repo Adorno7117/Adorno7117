@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+Mundo!+👋;+mmm+mMeu+nome+é+Gabriel+Adorno!;&center=true&size=35">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+Mundo!+👋;+Meu+nome+é+Gabriel!;&center=true&size=35">
     </a>
 </div>
     
