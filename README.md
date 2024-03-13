@@ -35,5 +35,5 @@
 <br>
 <br>
 
-![snake gif](https://github.com/Adorno7117/Adorno7117/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Adorno7117/Adorno7117/blob/output/github-contribution-grid-snake.svg)
 
