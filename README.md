@@ -37,4 +37,3 @@
 
 ![snake gif](https://github.com/Adorno7117/Adorno7117/blob/output/github-contribution-grid-snake.gif)
 
-[![readme](https://github-readme-stats.versel.app/api/pin/?username=Adorno7117repo=Adorno7117&theme=react)](https://github.com/Adorno7117/Adorno7117)
