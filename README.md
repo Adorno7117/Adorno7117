@@ -20,6 +20,7 @@
   
   <a href="https://instagram.com/_gabriel_adorno_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "ga7.adorno@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "https://www.linkedin.com/in/gabriel-adorno-4a08482ba/"><img src="https://img.shields.io/badge/-Linkedin-%232979?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br>
   
   ##
