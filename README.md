@@ -58,7 +58,7 @@
 
 ---
 
-##  Projetos
+##  Portifólio
 
  Quem conecer um pouco mais sobre mim? Confira meu portifolio:
 
